@@ -136,7 +136,10 @@ html {
   }
   .container section {
     width: 0;
-    flex-basis: 50%;
+    flex-basis: 60%;
+    background: url(./images/bg-pattern-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .container section .hero-mobile {
     display: none;
@@ -147,11 +150,13 @@ html {
     margin-left: 60px;
   }
   .container section .motto {
+    width: 850px;
     font-size: 64px;
     text-align: left;
     padding: 66px 96px 0px 96px;
   }
   .container section .greeting {
+    width: 612px;
     font-size: 16px;
     text-align: left;
     line-height: 1.7;
@@ -185,7 +190,7 @@ html {
   .container .hero-desktop {
     width: 0;
     display: block;
-    flex-basis: 50%;
+    flex-basis: 40%;
   }
   .container .hero-desktop img {
     width: 100%;
