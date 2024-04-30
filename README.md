@@ -24,12 +24,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+**Desktop**
+
+![](./screenshot/desktop.png)
+
+**Mobile**
+
+![](./screenshot/mobile.png)
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/base-apparel-solutoin-Kr76yugrhV)
+- [Live Site URL](https://akash02ab.github.io/base-apparel/)
 
 ### Built with
 
